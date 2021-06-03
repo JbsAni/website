@@ -46,6 +46,4 @@ contributions:
     source: "https://editor.p5js.org/Kubi/sketches/t_N8dPwBg"
 ---
 
-In coding challenge, I use my neural network JavaScript library to create a "color predictor."
 
-This challenge is inspired by Jabril!
